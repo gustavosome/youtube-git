@@ -1,0 +1,98 @@
+commit 5f6b7c5a4c5736af85492dfc3ae9344a3138ee13
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Mon Mar 13 18:55:00 2023 -0600
+
+    agregando 2 párrafos
+
+commit 4990e55060fd5907bf26e902ee92c7b0432e4a56
+Merge: 6b6bba0 dc78b7a
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Mon Mar 13 18:01:15 2023 -0600
+
+    Resolviendo conflicto con estaciones del año y fechas de inicio
+
+commit 6b6bba085c88e4a7481c6f24ef5166449878a13d
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Mon Mar 13 17:48:02 2023 -0600
+
+    Agregando estaciones del año con fecha
+
+commit dc78b7a77e3d285ff2a677143b3630f5b7883637
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Mon Mar 13 17:48:02 2023 -0600
+
+    agregando estaciones del año
+
+commit c7094b873ad71df826878f9ac86d37e2b4881750
+Merge: 0118c8f cf88167
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Mon Mar 13 17:05:43 2023 -0600
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit cf88167ca6596acf206c6e6b6dd5991e2f222af9
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Mon Mar 13 16:57:46 2023 -0600
+
+    agregando index.js al index.html
+
+commit 0118c8fa791c7644888f7614318be3757d82d234
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Mon Mar 13 16:54:55 2023 -0600
+
+    agregando style.css al index.html
+
+commit 2376b142ab4ffa70766b70194f155e06b1b4ea51
+Merge: 0f75e39 4d6413d
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Mon Mar 13 15:45:45 2023 -0600
+
+    Merge branch 'js'
+
+commit 4d6413dd3e076a4d4cabb5c5ba796e641e2f8834
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Mon Mar 13 15:22:12 2023 -0600
+
+    Creando index.js
+
+commit 0f75e390d71089fe4a648a8c3d57a037225a6551
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Mon Mar 13 15:09:33 2023 -0600
+
+    creando css
+
+commit 28679e1db5009c5e600cc67cce11726c89711074
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Mon Mar 13 15:06:14 2023 -0600
+
+    creando index.html
+
+commit 9316ebcfa926c8614c4888b60c5a95d9205e3f5c
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Mon Mar 13 14:19:58 2023 -0600
+
+    ignorando archivos .exe
+
+commit e7f034b18ea735eeffa04e36bc0c8d4fc1f3fad6
+Author: gustavosome <115323923+gustavosome@users.noreply.github.com>
+Date:   Mon Mar 13 10:49:49 2023 -0600
+
+    creando licencia del repositorio
+
+commit c13ac5ff9ba3a2b1a56f40cef5ead69f06c583ca
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Sun Mar 12 21:30:42 2023 -0600
+
+    agregando aún más
+
+commit d64c1cdf3790027bf496ede7f8b3cb7f03d0a1e9
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Sun Mar 12 20:52:01 2023 -0600
+
+    Agregando contenido inicial al Readme
+
+commit df47b611ad184efd5027332d439c7b4a19c379a6
+Author: Gustavo Fierro <gustavosome@gmail.com>
+Date:   Sun Mar 12 20:34:47 2023 -0600
+
+    Primer commit .
